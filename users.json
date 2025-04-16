@@ -6,5 +6,9 @@
     {
         "user_id": "23d7f447-76c0-418a-94cf-af48789915ef",
         "isActive": true
+    },
+    {
+        "user_id": "ef2dde6d-6deb-45da-b331-8dbd17a1c772",
+        "isActive": false
     }
 ]
