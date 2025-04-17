@@ -2,5 +2,9 @@
     {
         "user_id": "f32cf065-51bf-4355-99b4-2d0f3cae4d12",
         "isActive": false
+    },
+    {
+        "user_id": "c2b26bec-6876-4ee8-b235-1c8bc4f83e34",
+        "isActive": false
     }
 ]
